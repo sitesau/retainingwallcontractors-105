@@ -1,0 +1,22 @@
+{
+  "wheel_id": 812,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-105",
+  "project": "retaining-wall-contractors-checklist-48a816a8cb665b269498eb47ff",
+  "parent_t1_ref": "retainingwallcontractors-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall contractors checklist",
+  "intended_url": "https://sitesau.github.io/retainingwallcontractors-105/",
+  "tier": "T2",
+  "writeback_nonce": "bb4570e7c20a9f9a",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-contractors-common-mistakes-22dce2b6987639895994/",
+      "anchor": "Retaining Wall Contractors Common Mistakes: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
